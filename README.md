@@ -1,2 +1,5 @@
 # Study-Flask
-Conhecendo Flask!
+
+Requisitos
+pip install Flask
+
